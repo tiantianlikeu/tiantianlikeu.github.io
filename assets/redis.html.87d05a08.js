@@ -1,0 +1,1 @@
+const e={key:"v-4f8c7c93",path:"/zh/docker/app/redis.html",title:"docker\u642D\u5EFAredis",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1676948233e3,contributors:[{name:"liutian",email:"435757679@qq.com",commits:2}]},filePathRelative:"zh/docker/app/redis.md"};export{e as data};

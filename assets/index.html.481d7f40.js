@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{home:!0,heroImage:"/images/home/home.png",actions:[{text:"to diu ~",link:"/huzi/",type:"primary"}],actionText:"Go \u2192",actionLink:"/huzi/"},excerpt:"",headers:[],git:{updatedTime:1661353521e3,contributors:[{name:"liutian",email:"435757679@qq.com",commits:4}]},filePathRelative:"README.md"};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-9a613608",path:"/zh/talk/web3/talk_web3.html",title:"\u6D45\u8C08web3",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:166147888e4,contributors:[{name:"liutian",email:"435757679@qq.com",commits:1}]},filePathRelative:"zh/talk/web3/talk_web3.md"};export{t as data};

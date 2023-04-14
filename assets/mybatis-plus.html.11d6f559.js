@@ -1,0 +1,1 @@
+const t={key:"v-610636cc",path:"/zh/java/end/mybatis-plus.html",title:"mybatis-plus \u6570\u636E\u64CD\u4F5C",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1661418111e3,contributors:[{name:"liutian",email:"435757679@qq.com",commits:2}]},filePathRelative:"zh/java/end/mybatis-plus.md"};export{t as data};

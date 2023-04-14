@@ -1,0 +1,1 @@
+const t={key:"v-7e7c8aa6",path:"/zh/f_link/flink.html",title:"\u53CB\u94FE",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1663683342e3,contributors:[{name:"liutian",email:"435757679@qq.com",commits:1}]},filePathRelative:"zh/f_link/flink.md"};export{t as data};

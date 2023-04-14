@@ -1,0 +1,1 @@
+const t={key:"v-c06d72f8",path:"/huzi.html",title:"\u7B80\u4ECB",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1661351187e3,contributors:[{name:"liutian",email:"435757679@qq.com",commits:1}]},filePathRelative:"huzi.md"};export{t as data};

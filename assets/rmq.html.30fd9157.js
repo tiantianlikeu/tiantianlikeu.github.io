@@ -1,0 +1,1 @@
+const t={key:"v-7c211298",path:"/zh/docker/app/rmq.html",title:"docker\u642D\u5EFArmq",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1676948233e3,contributors:[{name:"liutian",email:"435757679@qq.com",commits:2}]},filePathRelative:"zh/docker/app/rmq.md"};export{t as data};

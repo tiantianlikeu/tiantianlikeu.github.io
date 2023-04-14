@@ -1,0 +1,1 @@
+const e={key:"v-b8de1100",path:"/zh/java/plugins/video_vcover.html",title:"\u89C6\u9891\u83B7\u53D6\u5C01\u9762\u56FE",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1661498202e3,contributors:[{name:"liutian",email:"435757679@qq.com",commits:1}]},filePathRelative:"zh/java/plugins/video_vcover.md"};export{e as data};
